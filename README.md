@@ -7,4 +7,4 @@
 
 ### Connect with me:
 
-[![website](./img/linkin.png)](https://linkedin.com/in/erick-molina-64718a185/)
+[![website](linkin.png)](https://linkedin.com/in/erick-molina-64718a185/)
