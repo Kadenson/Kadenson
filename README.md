@@ -1,4 +1,4 @@
-## Hi there , I'm Erick Molina - aka [Kadenson]
+## Hi there , I'm Erick Molina - aka ***Kadenson***
 
 ### I'm a Father, Developer, and Soldier
 - 🐱‍👤 I'm currently enrolled in coding dojo.
