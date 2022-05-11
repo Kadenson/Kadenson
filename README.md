@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Erick Molina
-- 👀 I’m interested in all things coding.
-- 🌱 I’m currently learning Javascript, HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there , I'm Erick Molina - aka [Kadenson]
 
-<!---
-Kadenson/Kadenson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### I'm a father, Developer, and soldier
+- 🐱‍👤 I'm currently enrolled in coding dojo.
+- 🥅 Looking to find a job where I can expand my skills and grow.
+- 🎸 Fact about me: I love playing guitar and have been for 14 years
+
+### Connect with me:
+
+[![website](./img/linkin.png)](https://linkedin.com/in/erick-molina-64718a185/)
