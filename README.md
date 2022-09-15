@@ -1,7 +1,7 @@
 ## Hi there , I'm Erick Molina - aka ***Kadenson***
 
 ### I'm a Father, Developer, and Soldier
-- 🐱‍👤 I'm currently enrolled in coding dojo.
+- 🐱‍👤 I'm a recent graduate of Coding Dojo.
 - 🥅 Looking to find a job where I can expand my skills and grow.
 - 🎸 Fact about me: I love playing guitar and have been for 14 years
 
